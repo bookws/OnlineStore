@@ -5,3 +5,6 @@ My Online Shopping Store
 - Python 3.8
 - Flask
 - Mongodb
+ # project description
+ # package dependencies
+ # installation or usage.
