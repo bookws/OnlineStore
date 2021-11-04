@@ -2,6 +2,6 @@
 My Online Shopping Store
 
 #Dependencies
--Python 3.8
--Flask
--Mongodb
+*Python 3.8
+*Flask
+*Mongodb
